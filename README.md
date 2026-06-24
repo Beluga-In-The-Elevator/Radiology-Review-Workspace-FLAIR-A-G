@@ -89,16 +89,7 @@ Some debug logging may still be present, such as:
 
 These are useful while validating folder matching and can be removed later once the macro is stable.
 
-## Suggested file names
-
-Good names for the macro file include:
-
-- `FLAIR_Timepoint_Review_Macro.ijm`
-- `FLAIR_Review_Workspace.ijm`
-- `FLAIR_T2_Review_Setup.ijm`
-
 ## Future improvements
-
 Possible future additions:
 
 - synchronized scrolling for A/B and E/F pairs
